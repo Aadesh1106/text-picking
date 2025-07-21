@@ -1,10 +1,10 @@
-# 📝 Text Picking Tool
+#  Text Picking Tool
 
 A lightweight and easy-to-use tool designed for **extracting and selecting specific text** from input data. This project helps automate or simplify the process of picking relevant text segments based on user-defined criteria.
 
 ---
 
-## ⚙️ Features
+##  Features
 
 - Select and extract portions of text efficiently
 - Simple and intuitive interface (CLI or GUI based on implementation)
@@ -13,7 +13,7 @@ A lightweight and easy-to-use tool designed for **extracting and selecting speci
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the Repository
 
